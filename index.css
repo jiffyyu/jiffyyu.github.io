@@ -1,0 +1,68 @@
+h3{   
+    text-shadow: 1px 1px;
+    font-family: Verdana, sans-serif;
+}
+#s{
+    background-image: url(https://i.loli.net/2021/10/11/1ZPgIptHfLvolJu.png);
+    background-size: contain;
+    background-repeat: repeat;
+}
+#head{
+    width: 100%;
+    height: 100%;
+    background: url(http://thekitemap.com/images/feedback-img.jpg) no-repeat 50% 50%;
+    color:white ;
+    background-size: cover
+}
+#colunm{
+    color:black;
+    border: solid whitesmoke;
+    border-left: 10px solid darkgray;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    opacity: 0.6;
+}
+
+h4{
+    text-shadow: 1px 1px;
+    font-family: Verdana, sans-serif;
+    border-bottom: 5px solid #3E8ED0;
+    width: 100%;
+    padding-bottom: 10px;
+}
+h5 {
+    display: block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+ #i{
+     background-color:#F5F5F5;
+     border-bottom: 10px solid #3E8ED0;
+     border-top: 10px solid #3E8ED0;
+     border-radius: 15px;
+}
+
+
+#s2{
+    background-image: url(https://i.loli.net/2021/10/10/1lrIbkqTtRZ9jzK.png);
+    background-size: contain;
+}
+#s3{
+    background-color: rgb(255,228,181);
+    box-shadow: 10px 10px 5px grey;
+    background-image: url(https://i.loli.net/2021/10/11/AI2f7EY4BbNMlRh.png);
+    background-size: contain;
+    background-position: right top;
+    background-repeat: no-repeat;
+   
+}
+#ol{
+    background-color: white;
+}
+#car{
+    line-height: 2;
+}
